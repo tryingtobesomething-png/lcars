@@ -1,13 +1,3 @@
-/*
-
-	CSS Document
-	LCARS Classic Theme
-	Version 24.2
-	By Jim Robertus www.thelcars.com
-	Modified: 2025 Jul 27
-	
-*/
-
 :root {
 	font-size: 1.375rem;
 	color-scheme: dark;
@@ -64,30 +54,6 @@
 	--bar-8-color: var(--red);
 	--bar-9-color: var(--african-violet);
 	--bar-10-color: var(--butterscotch);
-
-/* Ultra layout elements */
-
-	--section-2-color: var(--almond-creme);
-	--pill-1-color: var(--red);
-	--pill-2-color: var(--butterscotch);
-	--pill-3-color: var(--bluey);
-	--pill-4-color: var(--almond-creme);
-	--pill-5-color: var(--orange);
-	--pill-6-color: var(--moonlit-violet);
-	--pill-a1-color: var(--moonlit-violet);
-	--pill-a2-color: var(--moonlit-violet);
-	--pill-a3-color: black;
-	--pill-a4-color: var(--african-violet);
-	--pill-a5-color: var(--orange);
-	--pill-a6-color: var(--almond-creme);
-	--panel-11-color: var(--red);
-	--panel-12-color: var(--bluey);
-	--panel-13-color: var(--almond-creme);
-	--panel-14-color: var(--almond-creme);
-	--panel-15-color: var(--almond-creme);
-
-	/* End Ultra layout elements */
-
 	--radius-top: 0 0 0 160px;
 	--radius-bottom: 160px 0 0 0;
 	--radius-content-top: 0 0 0 60px;
